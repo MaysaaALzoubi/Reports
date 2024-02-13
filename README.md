@@ -41,3 +41,5 @@ Step 18 : Analysis the values ( total sales, total quantity and average price by
 Step 19 : Use line chart to analysis total sales by year and quarter, apply predictive analysis (forecast) for two years in the future.
 
 Step 20 : Use scatter chart to analysis total sales and number of order by region, apply predictive analysis (clustered) for two clusters.
+
+Step 21 : Make report responsive with mobile screen.
